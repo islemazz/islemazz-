@@ -1,0 +1,13 @@
+:root{--bg:#0f1724;--card:#0b1220;--accent:#7c3aed;--muted:#9aa4b2}
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter,system-ui,Segoe UI,Roboto,Arial;background:linear-gradient(180deg,#071226,#0f1724);color:#e6eef6}
+.page{max-width:980px;margin:0 auto;padding:48px}
+.hero{padding:40px 0}
+h1{font-size:36px;margin:0 0 8px}
+.subtitle{color:var(--muted);margin:0 0 16px}
+.ctas .btn{display:inline-block;padding:8px 12px;border-radius:8px;background:linear-gradient(90deg,var(--accent),#06b6d4);color:white;text-decoration:none;margin-right:8px}
+.ctas .ghost{background:transparent;border:1px solid rgba(255,255,255,0.06)}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin-top:28px}
+.card{background:linear-gradient(180deg,rgba(255,255,255,0.02),rgba(255,255,255,0.01));padding:18px;border-radius:12px}
+.small{color:var(--muted);font-size:13px;text-decoration:none}
+.site-footer{text-align:center;color:var(--muted);margin-top:48px}
