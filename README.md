@@ -7,10 +7,10 @@ Tunis, Tunisia • islem.azzouz@esprit.tn • [LinkedIn](https://linkedin.com/in
 Short profile
 I’m a 4th‑year engineering student at ESPRIT specializing in Cloud & DevOps. I delivered a secure cryptographic automation pipeline to production for a fintech client and have full‑stack experience across infrastructure, backend, and frontend. I enjoy solving complex technical problems and building reliable, secure systems.
 
-Quick stats
+[Quick stats
 [![Islem's GitHub stats](https://github-readme-stats.vercel.app/api?username=islemazz&show_icons=true&theme=tokyonight)](https://github.com/islemazz)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islemazz&layout=compact&theme=tokyonight)](https://github.com/islemazz)
-
+](https://github.com/islemazz)
 ---
 
 ## Experience
